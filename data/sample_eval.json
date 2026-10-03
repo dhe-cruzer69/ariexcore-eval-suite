@@ -1,0 +1,6 @@
+{
+  "claims": [
+    { "id": "c1", "claim": "inventory found 3 stale repos", "status": "VALIDATED", "sources": ["data/inventory.json"] },
+    { "id": "c2", "claim": "all CI green", "status": "UNKNOWN", "sources": [] }
+  ]
+}
